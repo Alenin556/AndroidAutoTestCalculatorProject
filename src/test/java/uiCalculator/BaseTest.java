@@ -3,7 +3,9 @@ package uiCalculator;
 import static DriverManager.Driver.driver;
 import static DriverManager.Driver.driverSetUp;
 import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
 
 public class BaseTest {
 
