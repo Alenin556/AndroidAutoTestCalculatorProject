@@ -1,0 +1,6 @@
+deviceName=Pixel 2 API 35 Emulator
+platformName=android
+appPackage=com.google.android.calculator
+appActivity=MainActivity
+remoteUrl=http://127.0.0.1:4706/wd/hub
+app=src/test/resources/app/Calculator.apk
