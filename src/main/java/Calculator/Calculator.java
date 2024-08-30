@@ -27,7 +27,6 @@ public class Calculator {
     public WebElement subtractionButton = driver.findElement(By.id("op_sub"));
     public WebElement additionButton = driver.findElement(By.id("op_add"));
     public WebElement sumButton = driver.findElement(By.id("eq"));
-//    public WebElement result = driver.findElement(By.id("result_final"));
 
     public void clickOnElement(WebElement element){
      element.isDisplayed();
